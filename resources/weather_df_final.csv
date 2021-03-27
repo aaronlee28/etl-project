@@ -1,0 +1,367 @@
+,EventId,Type,Severity,TimeZone,AirportCode,City,State,date
+0,W-1722,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-01
+1,W-1723,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-02
+7,W-1729,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-10
+8,W-1730,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-12
+9,W-1731,Fog,Severe,US/Mountain,K04V,Saguache,CO,2020-01-17
+14,W-1736,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-22
+17,W-1739,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-27
+19,W-1741,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-03
+21,W-1743,Fog,Moderate,US/Mountain,K04V,Saguache,CO,2020-02-04
+24,W-1746,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-07
+35,W-1757,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-10
+40,W-1762,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-11
+45,W-1767,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-17
+47,W-1769,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-02-23
+54,W-1776,Storm,Severe,US/Mountain,K04V,Saguache,CO,2020-02-24
+56,W-1778,Cold,Severe,US/Mountain,K04V,Saguache,CO,2020-02-26
+58,W-1780,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-08
+61,W-1783,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-09
+62,W-1784,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-13
+68,W-1790,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-19
+74,W-1796,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-03-20
+79,W-1801,Fog,Severe,US/Mountain,K04V,Saguache,CO,2020-03-22
+80,W-1802,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-03-24
+81,W-1803,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-28
+84,W-1806,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-03-30
+86,W-1808,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-03
+87,W-1809,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-10
+88,W-1810,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-12
+94,W-1816,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-14
+95,W-1817,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-17
+96,W-1818,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-21
+97,W-1819,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-22
+102,W-1824,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-24
+104,W-1826,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-11
+107,W-1829,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-12
+108,W-1830,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-15
+109,W-1831,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-27
+111,W-1833,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-28
+114,W-1836,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-29
+118,W-1840,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-31
+122,W-1844,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-01
+124,W-1846,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-02
+126,W-1848,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-03
+127,W-1849,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-04
+129,W-1851,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-05
+130,W-1852,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-06
+133,W-1855,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-09
+135,W-1857,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-14
+137,W-1859,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-16
+138,W-1860,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-19
+139,W-1861,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-20
+140,W-1862,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-25
+141,W-1863,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-26
+143,W-1865,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-28
+144,W-1866,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-04
+146,W-1868,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-05
+147,W-1869,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-06
+148,W-1870,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-12
+149,W-1871,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-13
+151,W-1873,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-14
+153,W-1875,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-15
+156,W-1878,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-16
+157,W-1879,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-17
+158,W-1880,Precipitation,UNK,US/Mountain,K04V,Saguache,CO,2020-07-25
+159,W-1881,Precipitation,UNK,US/Mountain,K04V,Saguache,CO,2020-07-27
+160,W-1882,Precipitation,UNK,US/Mountain,K04V,Saguache,CO,2020-08-31
+161,W-1883,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-09-09
+177,W-1899,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-09-10
+190,W-1912,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-09-20
+191,W-1913,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-09-22
+192,W-1914,Storm,Severe,US/Mountain,K04V,Saguache,CO,2020-09-27
+193,W-1915,Storm,Severe,US/Mountain,K04V,Saguache,CO,2020-10-14
+194,W-1916,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-10-26
+200,W-1922,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-11-08
+202,W-1924,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-11-09
+207,W-1929,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-11-10
+208,W-1930,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-11-14
+212,W-1934,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-11-23
+214,W-1936,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-11-24
+219,W-1941,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-01
+220,W-1942,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-10
+221,W-1943,Snow,Moderate,US/Mountain,K04V,Saguache,CO,2020-12-11
+227,W-1949,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-12
+228,W-1950,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-15
+232,W-1954,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-18
+236,W-1958,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-23
+239,W-1961,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-27
+240,W-1962,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-28
+245,W-1967,Snow,Moderate,US/Mountain,K04V,Saguache,CO,2020-12-29
+251,W-5020,Cold,Severe,US/Central,KAXS,Altus,OK,2020-01-03
+254,W-5023,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-13
+257,W-5026,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-14
+259,W-5028,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-15
+260,W-5029,Rain,Light,US/Central,KAXS,Altus,OK,2020-01-16
+272,W-5041,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-18
+280,W-5049,Rain,Light,US/Central,KAXS,Altus,OK,2020-01-28
+295,W-5064,Rain,Light,US/Central,KAXS,Altus,OK,2020-02-05
+310,W-5079,Rain,Light,US/Central,KAXS,Altus,OK,2020-02-12
+313,W-5082,Cold,Severe,US/Central,KAXS,Altus,OK,2020-02-15
+314,W-5083,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-02-16
+333,W-5102,Rain,Light,US/Central,KAXS,Altus,OK,2020-02-25
+339,W-5108,Fog,Severe,US/Central,KAXS,Altus,OK,2020-02-28
+340,W-5109,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-04
+360,W-5129,Fog,Severe,US/Central,KAXS,Altus,OK,2020-03-12
+367,W-5136,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-14
+377,W-5146,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-15
+381,W-5150,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-16
+387,W-5156,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-17
+403,W-5172,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-18
+419,W-5188,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-21
+425,W-5194,Fog,Severe,US/Central,KAXS,Altus,OK,2020-03-23
+427,W-5196,Fog,Severe,US/Central,KAXS,Altus,OK,2020-03-27
+437,W-5206,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-31
+450,W-5219,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-05
+452,W-5221,Fog,Severe,US/Central,KAXS,Altus,OK,2020-04-07
+459,W-5228,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-13
+472,W-5241,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-19
+473,W-5242,Fog,Severe,US/Central,KAXS,Altus,OK,2020-04-20
+475,W-5244,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-04-23
+476,W-5245,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-04-25
+480,W-5249,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-04-26
+491,W-5260,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-27
+492,W-5261,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-02
+493,W-5262,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-06
+496,W-5265,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-08
+506,W-5275,Fog,Severe,US/Central,KAXS,Altus,OK,2020-05-13
+510,W-5279,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-14
+519,W-5288,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-16
+531,W-5300,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-20
+533,W-5302,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-21
+539,W-5308,Cold,Severe,US/Central,KAXS,Altus,OK,2020-05-22
+540,W-5309,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-23
+542,W-5311,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-24
+546,W-5315,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-25
+570,W-5339,Rain,Light,US/Central,KAXS,Altus,OK,2020-06-21
+571,W-5340,Rain,Light,US/Central,KAXS,Altus,OK,2020-06-23
+575,W-5344,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-02
+585,W-5354,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-10
+597,W-5366,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-21
+601,W-5370,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-23
+605,W-5374,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-07-26
+609,W-5378,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-28
+618,W-5387,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-29
+623,W-5392,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-02
+626,W-5395,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-03
+627,W-5396,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-05
+635,W-5404,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-06
+637,W-5406,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-08-08
+638,W-5407,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-11
+641,W-5410,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-12
+642,W-5411,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-17
+645,W-5414,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-20
+650,W-5419,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-22
+651,W-5420,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-30
+658,W-5427,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-01
+661,W-5430,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-02
+672,W-5441,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-03
+675,W-5444,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-04
+679,W-5448,Precipitation,UNK,US/Central,KAXS,Altus,OK,2020-09-08
+693,W-5462,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-11
+698,W-5467,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-12
+701,W-5470,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-13
+703,W-5472,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-09-15
+704,W-5473,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-16
+706,W-5475,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-24
+712,W-5481,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-09-28
+714,W-5483,Fog,Severe,US/Central,KAXS,Altus,OK,2020-10-10
+717,W-5486,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-12
+719,W-5488,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-13
+721,W-5490,Cold,Severe,US/Central,KAXS,Altus,OK,2020-10-15
+722,W-5491,Fog,Severe,US/Central,KAXS,Altus,OK,2020-10-18
+723,W-5492,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-20
+725,W-5494,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-22
+726,W-5495,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-23
+735,W-5504,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-25
+759,W-5528,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-27
+779,W-5548,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-28
+801,W-5570,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-29
+805,W-5574,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-30
+807,W-5576,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-11-05
+808,W-5577,Fog,Severe,US/Central,KAXS,Altus,OK,2020-11-06
+814,W-5583,Fog,Severe,US/Central,KAXS,Altus,OK,2020-11-11
+817,W-5586,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-11-21
+820,W-5589,Rain,Light,US/Central,KAXS,Altus,OK,2020-11-22
+832,W-5601,Fog,Severe,US/Central,KAXS,Altus,OK,2020-11-27
+833,W-5602,Rain,Light,US/Central,KAXS,Altus,OK,2020-11-28
+836,W-5605,Rain,Light,US/Central,KAXS,Altus,OK,2020-11-29
+843,W-5612,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-02
+845,W-5614,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-03
+848,W-5617,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-12-05
+850,W-5619,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-12-08
+855,W-5624,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-13
+881,W-5650,Snow,Light,US/Central,KAXS,Altus,OK,2020-12-16
+890,W-5659,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-30
+899,W-5668,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-31
+905,W-8511,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-04
+906,W-8512,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-07
+938,W-8544,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-19
+943,W-8549,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-20
+952,W-8558,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-21
+956,W-8562,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-23
+957,W-8563,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-24
+964,W-8570,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-26
+983,W-8589,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-29
+986,W-8592,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-30
+988,W-8594,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-31
+995,W-8601,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-01
+1004,W-8610,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-08
+1005,W-8611,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-09
+1011,W-8617,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-13
+1012,W-8618,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-14
+1017,W-8623,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-18
+1018,W-8624,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-20
+1019,W-8625,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-22
+1023,W-8629,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-27
+1032,W-8638,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-29
+1033,W-8639,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-03-03
+1035,W-8641,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-05
+1040,W-8646,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-03-07
+1046,W-8652,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-11
+1084,W-8690,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-03-25
+1091,W-8697,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-26
+1106,W-8712,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-29
+1117,W-8723,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-04-01
+1127,W-8733,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-04-06
+1132,W-8738,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-04-08
+1135,W-8741,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-04-09
+1159,W-8765,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-04-28
+1162,W-8768,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-05
+1166,W-8772,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-07
+1167,W-8773,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-09
+1168,W-8774,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-10
+1177,W-8783,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-17
+1184,W-8790,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-18
+1217,W-8823,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-26
+1241,W-8847,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-10
+1246,W-8852,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-13
+1257,W-8863,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-22
+1271,W-8877,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-06-27
+1274,W-8880,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-29
+1283,W-8889,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-07-09
+1286,W-8892,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-07-11
+1297,W-8903,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-07-18
+1313,W-8919,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-08-09
+1318,W-8924,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-08-10
+1320,W-8926,Rain,Moderate,US/Central,KAEL,Albert Lea,MN,2020-08-15
+1323,W-8929,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-08-19
+1324,W-8930,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-08-21
+1330,W-8936,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-08-23
+1332,W-8938,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-08-24
+1333,W-8939,Precipitation,UNK,US/Central,KAEL,Albert Lea,MN,2020-08-28
+1343,W-8949,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-09-06
+1378,W-8984,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-09-18
+1384,W-8990,Fog,Moderate,US/Central,KAEL,Albert Lea,MN,2020-09-25
+1386,W-8992,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-09-26
+1393,W-8999,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-09-29
+1394,W-9000,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-09-30
+1397,W-9003,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-01
+1405,W-9011,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-03
+1406,W-9012,Fog,Moderate,US/Central,KAEL,Albert Lea,MN,2020-10-11
+1418,W-9024,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-16
+1419,W-9025,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-17
+1421,W-9027,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-10-19
+1428,W-9034,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-21
+1457,W-9063,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-11-12
+1461,W-9067,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-11-15
+1474,W-9080,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-12-06
+1475,W-9081,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-12-07
+1489,W-9095,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-14
+1490,W-9096,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-17
+1493,W-9099,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-19
+1495,W-9101,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-20
+1496,W-9102,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-12-22
+1500,W-9106,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-12-24
+1539,W-11811,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-01-11
+1596,W-11868,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-02-06
+1646,W-11918,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-02-19
+1670,W-11942,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-03-02
+1678,W-11950,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-03-10
+1713,W-11985,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-04-04
+1734,W-12006,Rain,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-04-18
+1756,W-12028,Precipitation,UNK,US/Central,KBTR,Baton Rouge,LA,2020-04-29
+1814,W-12086,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-06-07
+1822,W-12094,Rain,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-06-08
+1838,W-12110,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-06-15
+1852,W-12124,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-06-24
+1877,W-12149,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-07-01
+1878,W-12150,Fog,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-07-03
+1900,W-12172,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-07
+1911,W-12183,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-19
+1912,W-12184,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-20
+1915,W-12187,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-24
+1953,W-12225,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-13
+1960,W-12232,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-25
+1965,W-12237,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-26
+1970,W-12242,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-27
+1984,W-12256,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-29
+1988,W-12260,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-09-05
+1994,W-12266,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-09-19
+2002,W-12274,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-09-21
+2010,W-12282,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-09-23
+2033,W-12305,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-10-08
+2036,W-12308,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-10-09
+2078,W-12350,Precipitation,UNK,US/Central,KBTR,Baton Rouge,LA,2020-10-24
+2090,W-12362,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-11-07
+2104,W-12376,Fog,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-11-13
+2108,W-12380,Cold,Severe,US/Central,KBTR,Baton Rouge,LA,2020-11-17
+2110,W-12382,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-11-25
+2116,W-12388,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-11-26
+2149,W-12421,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-12-04
+2189,W-12461,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-12-21
+2208,W-15448,Rain,Light,US/Central,KCMY,Sparta,WI,2020-01-09
+2250,W-15490,Snow,Light,US/Central,KCMY,Sparta,WI,2020-01-25
+2288,W-15528,Snow,Light,US/Central,KCMY,Sparta,WI,2020-03-06
+2406,W-15646,Rain,Light,US/Central,KCMY,Sparta,WI,2020-05-01
+2581,W-15821,Fog,Severe,US/Central,KCMY,Sparta,WI,2020-08-04
+2591,W-15831,Rain,Light,US/Central,KCMY,Sparta,WI,2020-08-16
+2593,W-15833,Fog,Severe,US/Central,KCMY,Sparta,WI,2020-08-18
+2648,W-15888,Fog,Severe,US/Central,KCMY,Sparta,WI,2020-09-14
+2672,W-15912,Rain,Light,US/Central,KCMY,Sparta,WI,2020-10-07
+2717,W-15957,Rain,Light,US/Central,KCMY,Sparta,WI,2020-11-01
+2769,W-16009,Snow,Light,US/Central,KCMY,Sparta,WI,2020-11-30
+2808,W-19259,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-01-05
+2812,W-19263,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-01-06
+2816,W-19267,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-01-08
+2981,W-19432,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-03-01
+3130,W-19581,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-02
+3148,W-19599,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-11
+3154,W-19605,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-15
+3164,W-19615,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-16
+3182,W-19633,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-30
+3185,W-19636,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-05-03
+3186,W-19637,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-05-04
+3252,W-19703,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-06-17
+3258,W-19709,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-06-18
+3274,W-19725,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-06-30
+3318,W-19769,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-09-07
+3375,W-19826,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-11-16
+3381,W-19832,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-11-18
+3383,W-19834,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-11-19
+3392,W-19843,Fog,Severe,US/Mountain,KDIJ,Driggs,ID,2020-11-20
+3471,W-19922,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-12-26
+3598,W-23374,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-02-02
+3822,W-23598,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-05-19
+3852,W-23628,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-06-11
+3854,W-23630,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-06-12
+3883,W-23659,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-07-08
+3913,W-23689,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-07-22
+3920,W-23696,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-07-31
+3921,W-23697,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-08-01
+3932,W-23708,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-08-07
+3997,W-23773,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-10-04
+3999,W-23775,Fog,Severe,US/Eastern,KGRR,Grand Rapids,MI,2020-10-05
+4093,W-23869,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-12-09
+4133,W-23909,Snow,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-12-25
+4485,W-25999,Storm,Severe,US/Central,KHUT,Hutchinson,KS,2020-07-30
+5046,W-28721,Rain,Light,US/Mountain,KEMM,Kemmerer,WY,2020-05-30
+5128,W-28803,Cold,Severe,US/Mountain,KEMM,Kemmerer,WY,2020-08-14
+5165,W-28840,Cold,Severe,US/Mountain,KEMM,Kemmerer,WY,2020-10-02
+5170,W-28845,Cold,Severe,US/Mountain,KEMM,Kemmerer,WY,2020-10-06
+5968,W-33491,Fog,Severe,US/Eastern,KPSF,Pittsfield,MA,2020-09-17
+6093,W-33616,Fog,Severe,US/Eastern,KPSF,Pittsfield,MA,2020-10-31
+6096,W-33619,Rain,Light,US/Eastern,KPSF,Pittsfield,MA,2020-11-02
+6100,W-33623,Snow,Light,US/Eastern,KPSF,Pittsfield,MA,2020-11-03
+7517,W-41187,Rain,Moderate,US/Eastern,KNBT,Davis,NC,2020-02-21
+14714,W-73577,Fog,Severe,US/Pacific,KSPB,Scappoose,OR,2020-11-04

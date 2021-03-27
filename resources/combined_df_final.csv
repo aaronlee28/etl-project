@@ -1,0 +1,367 @@
+,EventId,Type,Severity,TimeZone,AirportCode,City_x,State_x,date,ID,Accident_Severity,Description,City_y,State_y
+0,W-1722,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-01,A-978027,2,Accident on I-90 Westbound between Exit 48 NY-98 and Exit 49 NY-78 Transit Rd.,Buffalo,NY
+1,W-1723,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-02,A-978375,2,Accident on Oak Ridge Rd at Tiner Ave.,Orlando,FL
+2,W-1729,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-10,A-886644,1,Accident on Silverton Rd at Stapleton Ave.,Brick,NJ
+3,W-1730,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-12,A-890815,3,Left lane blocked and left hand shoulder blocked due to accident on I-96 Eastbound at Exit 183 M-39 Exit 11A.,Detroit,MI
+4,W-1731,Fog,Severe,US/Mountain,K04V,Saguache,CO,2020-01-17,A-899234,3,Right lane blocked due to accident on I-278 Brooklyn Queens Expy Eastbound at Exit 27 Atlantic Ave.,Brooklyn,NY
+5,W-1736,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-22,A-907177,3,Right lane closed and right hand shoulder closed due to accident on I-64 Westbound in Westbriar.,Henrico,VA
+6,W-1739,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-01-27,A-917047,2,Accident on I-90 Westbound at Exit 60 NY-394 Portage St.,Westfield,NY
+7,W-1741,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-03,A-928340,3,Left lane blocked due to accident on I-80 Westbound at Exits 34A 34B NJ-15.,Wharton,NJ
+8,W-1743,Fog,Moderate,US/Mountain,K04V,Saguache,CO,2020-02-04,A-928929,2,Accident on I-90 Eastbound at Exit 48A NY-77 Alleghany Rd.,Corfu,NY
+9,W-1746,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-07,A-935784,2,Accident on M-54 Dort Hwy at Mt Morris Rd.,Mount Morris,MI
+10,W-1757,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-10,A-941844,3,Two lanes blocked due to accident on I-96 Eastbound at Exits 186A 186B Davison.,Detroit,MI
+11,W-1762,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-11,A-942558,3,Center and right lane blocked and left hand shoulder blocked due to accident on I-94 Eastbound at Exit 198-199 Merriman Rd.,Romulus,MI
+12,W-1767,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-02-17,A-955238,4,Lane blocked due to accident on I-85 Southbound from Exits 38 39 I-77 Exits 13A 13B to Exit 37 Beatties Ford Rd.,Charlotte,NC
+13,W-1769,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-02-23,A-966680,2,Exit ramp from FL-826 Westbound to Nw 167th St Westbound closed. Emergency vehicles.,Miami Gardens,FL
+14,W-1776,Storm,Severe,US/Mountain,K04V,Saguache,CO,2020-02-24,A-873879,3,Entry ramp to I-59 Northbound from I-59 Service Rd closed due to flooding.,Pearl River,LA
+15,W-1778,Cold,Severe,US/Mountain,K04V,Saguache,CO,2020-02-26,A-970101,3,Left hand shoulder blocked and left and center lane blocked due to accident on I-94 Westbound at Exit 202 US-24 Telegraph Rd.,Taylor,MI
+16,W-1780,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-08,A-821720,2,Two lanes blocked and right hand shoulder blocked due to accident on Southfield Fwy Northbound after Elmira St.,Detroit,MI
+17,W-1783,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-09,A-822348,3,2 lane blocked due to accident on I-278 Brooklyn Queens Expy Eastbound at Exit 39W 65th Pl.,Woodside,NY
+18,W-1784,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-13,A-830655,2,Accident on NY-60 Northbound near US-20 Main St.,Fredonia,NY
+19,W-1790,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-19,A-837364,3,Two lanes blocked due to accident on I-285 Northbound at Exit 12 US-278 Donald Lee Hollowell Pkwy.,Atlanta,GA
+20,W-1796,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-03-20,A-838114,2,Accident on I-190 Southbound after Exit 14 NY-266 Niagara St.,Buffalo,NY
+21,W-1801,Fog,Severe,US/Mountain,K04V,Saguache,CO,2020-03-22,A-840946,3,Right lane blocked due to accident on I-95 Cross Bronx Expy Northbound at Exit 6A Bruckner Blvd.,Bronx,NY
+22,W-1802,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-03-24,A-842018,3,Two lanes blocked due to accident on I-278 Brooklyn Queens Expy Eastbound at Exit 39W 65th Pl.,Woodside,NY
+23,W-1803,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-03-28,A-847572,3,Right lane blocked and right hand shoulder blocked due to accident on I-94 Westbound at Exit 213B I-96 Exit 190A.,Detroit,MI
+24,W-1806,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-03-30,A-3606850,2,At VT-73 - Accident. Right lane closed.,Brandon,VT
+25,W-1808,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-03,A-848591,3,Lane blocked due to accident on I-90 Eastbound between I-79 and US-19 Peach St.,Erie,PA
+26,W-1809,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-10,A-855101,3,Left lane blocked due to accident on I-290 Westbound at Exit 2 NY-425 Colvin Blvd.,Tonawanda,NY
+27,W-1810,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-12,A-856258,3,Left lane blocked due to accident on I-95 Northbound at Exit 14 I-78.,Newark,NJ
+28,W-1816,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-14,A-858375,3,Left lane blocked due to accident on I-290 Westbound at Exit 2 NY-425 Colvin Blvd.,Tonawanda,NY
+29,W-1817,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-04-17,A-861649,2,Traffic problem due to accident on PA-646 Summit Rd both ways at PA-346 Derrick Rd.,Derrick City,PA
+30,W-1818,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-21,A-864749,2,Accident on I-190 Southbound at Exit 15 NY-325 Sheridan Dr.,Tonawanda,NY
+31,W-1819,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-22,A-865840,2,Accident on US-62 Walnut Ave at 21st St.,Niagara Falls,NY
+32,W-1824,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-04-24,A-867010,1,Accident on exit ramp from I-890 Eastbound at Exit 4B to North Ave.,Schenectady,NY
+33,W-1826,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-11,A-769265,2,Accident on I-90 Westbound at Exit 54 NY-400.,Buffalo,NY
+34,W-1829,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-12,A-770482,2,Accident on I-90 Westbound at Exit 61 NY-815.,Ripley,NY
+35,W-1830,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-15,A-773039,2,Two lanes blocked due to accident on Bronx River Pkwy both ways at Exit 9 Gun Hill Rd.,Bronx,NY
+36,W-1831,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-27,A-752764,2,Accident on I-90 Westbound at Exit 51 NY-33.,Buffalo,NY
+37,W-1833,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-28,A-752817,2,Accident on I-87 Southbound near New Baltimore Rd.,West Coxsackie,NY
+38,W-1836,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-29,A-754235,2,Accident on I-90 Eastbound at Exit 59 NY-60 Bennett Rd.,Dunkirk,NY
+39,W-1840,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-05-31,A-757107,2,Lane blocked due to accident on Fdr Dr Southbound at Exit 9 42nd St.,New York,NY
+40,W-1844,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-01,A-757434,2,One lane blocked and right hand shoulder blocked due to accident on Taconic State Pkwy Southbound at Pudding St.,Putnam Valley,NY
+41,W-1846,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-02,A-757725,2,Accident on I-90 Eastbound at Exit 30 NY-28 Mohawk St.,Herkimer,NY
+42,W-1848,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-03,A-759200,4,4 left lane blocked due to accident on I-95 Northbound from FL-808 Glades Rd to FL-794 Yamato Rd.,Boca Raton,FL
+43,W-1849,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-04,A-783853,2,Accident on I-90 Westbound at Exit 49 NY-78 Transit Rd.,Buffalo,NY
+44,W-1851,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-05,A-799405,2,Accident on Florence Ave both ways at Pacific Blvd.,Huntington Park,CA
+45,W-1852,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-06,A-800802,2,Left lane blocked due to accident on M-39 Southbound at McNichols Rd.,Detroit,MI
+46,W-1855,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-09,A-801632,2,Accident on I-90 Westbound at Exit 30 NY-28 Mohawk St.,Herkimer,NY
+47,W-1857,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-14,A-809103,2,Accident on I-190 Eastbound at Exits 1-52 54-61.,Buffalo,NY
+48,W-1859,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-16,A-809519,3,Right lane blocked due to accident on I-75 Northbound at Exit 9 Otter Creek Rd.,La Salle,MI
+49,W-1860,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-19,A-785284,2,Accident on Blue Hill River Rd at Hillside St.,Milton,MA
+50,W-1861,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-20,A-785423,3,Collector road closed due to accident on US-30 White Horse Pike both ways from Burdick Ave to Lakeview Dr.,Hammonton,NJ
+51,W-1862,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-25,A-790984,2,Accident on M-54 Dort Hwy at Lippincott Blvd.,Flint,MI
+52,W-1863,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-26,A-794046,2,Accident on NY-61 Hyde Park Blvd at US-62-BR Pine Ave.,Niagara Falls,NY
+53,W-1865,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-06-28,A-795698,2,Restrictions on ramps due to accident on NJ-34 Southbound at I-195 Exits 35A 35B.,Belmar,NJ
+54,W-1866,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-04,A-680175,3,Left lane blocked due to accident on I-95 Northbound at Exit 87 US-17.,Richmond Hill,GA
+55,W-1868,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-05,A-680964,3,Accident on I-690 Westbound at Exits 1 2 I-90 Exit 39.,Syracuse,NY
+56,W-1869,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-06,A-681721,3,Left lane blocked due to accident on I-90 Mass Pike Westbound near Pru Tunnel.,Boston,MA
+57,W-1870,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-12,A-686203,2,Two lanes blocked due to accident on Fdr Dr Southbound at Montgomery St.,New York,NY
+58,W-1871,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-13,A-687948,2,Accident on I-90 Eastbound at Exit 9 PA-18 Meadville Rd.,Girard,PA
+59,W-1873,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-14,A-687990,2,Right hand shoulder blocked due to accident on I-94 Westbound at Oakwood Blvd.,Allen Park,MI
+60,W-1875,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-15,A-690533,2,Accident on CR-57 Markham Rd at School St.,Gowanda,NY
+61,W-1878,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-16,A-691141,2,Accident on I-85 Northbound near SC-291 Pleasantburg Dr.,Greenville,SC
+62,W-1879,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-07-17,A-691984,2,Accident on Center Rd at Lapeer Rd.,Flint,MI
+63,W-1880,Precipitation,UNK,US/Mountain,K04V,Saguache,CO,2020-07-25,A-701690,3,Right hand shoulder blocked and right lane blocked due to accident on I-94 Westbound at Conner St.,Detroit,MI
+64,W-1881,Precipitation,UNK,US/Mountain,K04V,Saguache,CO,2020-07-27,A-703814,2,Exit ramp from i-678 Southbound to 69th Rd Westbound lane blocked due to accident.,Forest Hills,NY
+65,W-1882,Precipitation,UNK,US/Mountain,K04V,Saguache,CO,2020-08-31,A-670929,3,Right lane blocked due to accident on I-190 Northbound at Ontario St.,Buffalo,NY
+66,W-1883,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-09-09,A-594874,3,Lane blocked due to accident on I-86 Eastbound from Exit 15 Schoolhouse Rd to Exit 19 Asp Route 2.,Salamanca,NY
+67,W-1899,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-09-10,A-594876,3,Three lanes blocked due to accident on I-90 Westbound at Exit 50 I-290 Exits 1-49 7A 7B 51-61.,Buffalo,NY
+68,W-1912,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-09-20,A-609417,3,Left lane blocked due to accident on I-95 Northbound at NJ-3.,East Rutherford,NJ
+69,W-1913,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-09-22,A-610630,3,Two lanes blocked due to accident on I-278 Brooklyn Queens Expy Westbound at Exit 30 Classon Ave.,Brooklyn,NY
+70,W-1914,Storm,Severe,US/Mountain,K04V,Saguache,CO,2020-09-27,A-619523,2,Left lane blocked due to accident on MA-128 Southbound in South Lynnfield.,Peabody,MA
+71,W-1915,Storm,Severe,US/Mountain,K04V,Saguache,CO,2020-10-14,A-643077,2,Accident on I-90 Eastbound after exit 48A.,Akron,NY
+72,W-1916,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-10-26,A-660360,2,Exit ramp from I-95 Southbound at Exit 13 to I-278 Westbound lane blocked due to accident.,Elizabeth,NJ
+73,W-1922,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-11-08,A-578309,2,Three lanes blocked due to accident on NJ-3 Westbound before Meadowlands Pkwy.,Secaucus,NJ
+74,W-1924,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-11-09,A-574935,2,Entry ramp to Florida's Turnpike North Northbound from Nw 57th Ave Southbound closed due to flooding.,Hollywood,FL
+75,W-1929,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-11-10,A-574611,4,Two lanes blocked due to accident on I-95 Northbound from I-95 /US-1 Jefferson Davis Hwy to I-95 / VA-3 Plank Rd / Carl D Silver Pkwy.,Fredericksburg,VA
+76,W-1930,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-11-14,A-569515,2,Entry ramp closed due to incident on Port Miami Tunnel Westbound at FL-886.,Miami,FL
+77,W-1934,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-11-23,A-557625,3,Main roadway closed due to accident on US-50 both ways from County Road 16 to County Road 17. Traffic getting by on the shoulder.,Las Animas,CO
+78,W-1936,Rain,Light,US/Mountain,K04V,Saguache,CO,2020-11-24,A-555907,2,Left lane blocked due to accident on 6th Ave Northbound at Madison St.,Seattle,WA
+79,W-1941,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-01,A-547913,2,Two lanes blocked due to accident on US-101 Southbound at Exit 403 University Ave.,Palo Alto,CA
+80,W-1942,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-10,A-537150,3,Lane blocked due to accident on I-90 Dan Ryan Expy Westbound at Exits 54 55A 55B 56A 56B Wentworth Ave.,Chicago,IL
+81,W-1943,Snow,Moderate,US/Mountain,K04V,Saguache,CO,2020-12-11,A-535893,3,Right lane closed due to accident on I-44 Westbound before Exit 286 Hampton Ave.,Saint Louis,MO
+82,W-1949,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-12,A-535158,3,Entry ramp closed due to incident on Port Miami Tunnel Westbound at fl-886.,Miami,FL
+83,W-1950,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-15,A-531644,3,#2 #3 #4 #5 lane blocked due to accident on I-105 Eastbound at Garfield Ave. SigAlert issued.,Paramount,CA
+84,W-1954,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-18,A-525899,4,One lane blocked due to accident on I-440 Cliff Benson Beltline Eastbound from Exit 7 / Glenwood Ave to Exit 8A / Six Forks Rd.,Raleigh,NC
+85,W-1958,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-23,A-520013,3,Lane blocked due to accident on I-90 Kennedy Expy Westbound at Exit 45A Addison St.,Chicago,IL
+86,W-1961,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-27,A-516796,3,Entry ramp closed due to incident on Port Miami Tunnel Westbound at fl-886.,Miami,FL
+87,W-1962,Snow,Light,US/Mountain,K04V,Saguache,CO,2020-12-28,A-516254,2,Left lane blocked due to accident on WA-520 Westbound at Montlake Blvd.,Seattle,WA
+88,W-1967,Snow,Moderate,US/Mountain,K04V,Saguache,CO,2020-12-29,A-513719,4,Lane blocked due to accident on I-380 Northbound between Exit 13 PA-507 and Exit 20 PA-307.,Moscow,PA
+89,W-5020,Cold,Severe,US/Central,KAXS,Altus,OK,2020-01-03,A-879346,3,One lane blocked due to accident on I-25 Northbound at County Line Rd.,Larkspur,CO
+90,W-5023,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-13,A-891786,3,Left lane blocked due to accident on I-190 Northbound at Exit 15 NY-325 Sheridan Dr.,Tonawanda,NY
+91,W-5026,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-14,A-892044,2,Accident on I-87 at Exit 17 I-84 Exits 7A 7B.,Newburgh,NY
+92,W-5028,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-15,A-894229,2,Accident on Gale Rd at Burpee Rd.,Grand Blanc,MI
+93,W-5029,Rain,Light,US/Central,KAXS,Altus,OK,2020-01-16,A-896733,2,Accident on Court St at Bradley Ave.,Flint,MI
+94,W-5041,Fog,Severe,US/Central,KAXS,Altus,OK,2020-01-18,A-901292,2,Accident on M-21 Corunna Rd at Morrish Rd.,Flint,MI
+95,W-5049,Rain,Light,US/Central,KAXS,Altus,OK,2020-01-28,A-917130,3,Left lane blocked due to accident on I-87 Southbound at Kingston (Rte 28).,Kingston,NY
+96,W-5064,Rain,Light,US/Central,KAXS,Altus,OK,2020-02-05,A-933218,2,Left lane blocked due to accident on NY-33 Kensington Expy Westbound at Eggert Rd.,Buffalo,NY
+97,W-5079,Rain,Light,US/Central,KAXS,Altus,OK,2020-02-12,A-944884,2,Accident on Van Slyke Rd at Hemphill Rd.,Flint,MI
+98,W-5082,Cold,Severe,US/Central,KAXS,Altus,OK,2020-02-15,A-952084,2,Right hand shoulder blocked due to accident on I-96 Eastbound at Kent Lake Rd.,New Hudson,MI
+99,W-5083,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-02-16,A-954573,2,Left lane blocked due to accident on Fdr Dr Northbound at Exit 11 53rd St.,New York,NY
+100,W-5102,Rain,Light,US/Central,KAXS,Altus,OK,2020-02-25,A-873852,3,Entry ramp to I-59 Northbound from Pump Slough Rd closed due to flooding.,Pearl River,LA
+101,W-5108,Fog,Severe,US/Central,KAXS,Altus,OK,2020-02-28,A-873598,2,Two lanes blocked due to accident on Belt Pkwy Westbound at Exits 7 7A Leif Ericson Dr.,Brooklyn,NY
+102,W-5109,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-04,A-815316,2,Lane blocked due to accident on US-219 near PA-59.,Lewis Run,PA
+103,W-5129,Fog,Severe,US/Central,KAXS,Altus,OK,2020-03-12,A-828805,2,Accident on Grider St at Kensington Ave.,Buffalo,NY
+104,W-5136,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-14,A-832678,3,Right lane blocked due to accident on I-93 Southbound at Exit 42 Frontage Rd.,Tewksbury,MA
+105,W-5146,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-15,A-833327,3,Accident on I-90 Westbound at Exit 49 NY-78 Transit Rd.,Buffalo,NY
+106,W-5150,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-16,A-833339,2,Lane blocked due to accident on NY-7 Eastbound at US-9.,Latham,NY
+107,W-5156,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-17,A-835331,3,Right lane blocked due to accident on I-90 Eastbound at Exit 58 NY-5.,Irving,NY
+108,W-5172,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-18,A-836770,2,Accident on I-190 Southbound at Exit 1 Griswold St.,Buffalo,NY
+109,W-5188,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-21,A-840915,3,Left lane blocked due to accident on I-90 Westbound at Exits 51E 51W NY-33 Kensington Expy.,Buffalo,NY
+110,W-5194,Fog,Severe,US/Central,KAXS,Altus,OK,2020-03-23,A-841775,3,Left lane blocked due to accident on I-190 Southbound at NY-16 Seneca St.,Buffalo,NY
+111,W-5196,Fog,Severe,US/Central,KAXS,Altus,OK,2020-03-27,A-845624,3,Right lane closed due to accident on I-94 Eastbound at Mt Elliott.,Detroit,MI
+112,W-5206,Rain,Light,US/Central,KAXS,Altus,OK,2020-03-31,A-3608437,3,At Lewis St - Overturned vehicle. Left lane blocked.,Indianapolis,IN
+113,W-5219,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-05,A-850196,2,Accident on Longwood Ave at Brookline Ave.,Boston,MA
+114,W-5221,Fog,Severe,US/Central,KAXS,Altus,OK,2020-04-07,A-851822,2,Accident on Payne Ave at NY-429 Ward Rd.,North Tonawanda,NY
+115,W-5228,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-13,A-857071,2,Accident on I-90 Westbound at Exit 50 I-290 .,Buffalo,NY
+116,W-5241,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-19,A-863212,2,Accident on I-190 Northbound at Exit 19 CR-75 Whitehaven Rd.,Grand Island,NY
+117,W-5242,Fog,Severe,US/Central,KAXS,Altus,OK,2020-04-20,A-863239,3,Left and center lane blocked due to accident on I-678 Southbound at Exits 5 6 Van Wyck Expy.,Richmond Hill,NY
+118,W-5244,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-04-23,A-865978,2,Accident on I-95 both ways at Exit 16 Cedar St.,New Rochelle,NY
+119,W-5245,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-04-25,A-869475,3,Accident on I-190 Southbound at Exits 1-52 54-61 I-90 Exit 53.,Buffalo,NY
+120,W-5249,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-04-26,A-869801,2,Accident on I-90 Westbound at Exit 48/ NY-77.,Corfu,NY
+121,W-5260,Rain,Light,US/Central,KAXS,Altus,OK,2020-04-27,A-870093,3,Right lane blocked due to accident on I-190 Northbound at Exit 9 Porter Ave.,Buffalo,NY
+122,W-5261,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-02,A-763203,4,Accident on I-95 Northbound at Exit 8A 95th St. Express lanes blocked.,Miami,FL
+123,W-5262,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-06,A-764568,2,Accident on I-90 Westbound before Exit 46 I-390 Exits 12 12A 12B.,Henrietta,NY
+124,W-5265,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-08,A-767295,2,Accident on I-90 Eastbound at Exit 51 NY-33 Kensington Expy.,Buffalo,NY
+125,W-5275,Fog,Severe,US/Central,KAXS,Altus,OK,2020-05-13,A-770512,3,Center right lane blocked and right hand shoulder blocked due to accident on I-94 Westbound at Exit 218 Edsel Ford Fwy.,Detroit,MI
+126,W-5279,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-14,A-771858,2,Lane blocked due to accident on Ocean Pkwy Westbound at Robert Moses Cswy.,Babylon,NY
+127,W-5288,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-16,A-774164,3,Left lane blocked and left hand shoulder blocked due to accident on I-696 Eastbound at Couzens Ave.,Madison Heights,MI
+128,W-5300,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-20,A-777805,3,Center right lane blocked right hand shoulder blocked and left hand shoulder blocked due to accident on I-96 Westbound at I-96 Local.,Detroit,MI
+129,W-5302,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-21,A-780581,2,Accident on CR-317 Dick Rd at NY-33 Kensington Expy.,Buffalo,NY
+130,W-5308,Cold,Severe,US/Central,KAXS,Altus,OK,2020-05-22,A-782002,2,Accident and fallen power cables on Court St at State St.,Boston,MA
+131,W-5309,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-23,A-750093,3,Entry ramp closed due to incident on Port Miami Tunnel Westbound at FL-886.,Miami,FL
+132,W-5311,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-24,A-749990,3,Accident on I-90 Westbound at Exits 51E / NY-33 Kensington Expy.,Buffalo,NY
+133,W-5315,Rain,Light,US/Central,KAXS,Altus,OK,2020-05-25,A-750024,3,Left lane blocked due to accident on I-278 Brooklyn Queens Expy Northbound at 29th Street.,Brooklyn,NY
+134,W-5339,Rain,Light,US/Central,KAXS,Altus,OK,2020-06-21,A-786838,3,Accident on I-87 Northbound from Exit 13 Major Deegan Expy to Exit 14 NY-9P.,Saratoga Springs,NY
+135,W-5340,Rain,Light,US/Central,KAXS,Altus,OK,2020-06-23,A-789280,3,Exit ramp from I-290 Westbound to I-190 Southbound lane closed due to accident.,Tonawanda,NY
+136,W-5344,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-02,A-679718,3,Left lane blocked due to accident on I-95 Southbound at Exit 13 I-278 Exits 3A 3B-C.,Elizabeth,NJ
+137,W-5354,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-10,A-686091,3,Right lane closed due to accident on I-696 Westbound at Greenfield Rd.,Oak Park,MI
+138,W-5366,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-21,A-697234,2,Accident on I-190 Northbound after Exit 9 Porter Ave.,Buffalo,NY
+139,W-5370,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-23,A-698778,3,Left lane blocked due to accident on I-94 Westbound at Exits 215A 215B M-10 John C Lodge Fwy Exits 4A 4B.,Detroit,MI
+140,W-5374,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-07-26,A-703276,3,Lane blocked due to accident on I-95 Cross Bronx Expy Northbound at Exit 2A Jerome Ave.,Bronx,NY
+141,W-5378,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-28,A-705754,3,Accident on I-190 Southbound near Exit 53 I-90.,Buffalo,NY
+142,W-5387,Rain,Light,US/Central,KAXS,Altus,OK,2020-07-29,A-705986,3,Two lanes blocked due to accident on I-66 Eastbound at US-29 Lee Hwy.,Centreville,VA
+143,W-5392,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-02,A-711948,2,Lane blocked due to accident on Southern Pkwy Eastbound at exit 25.,Bellmore,NY
+144,W-5395,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-03,A-712853,3,Left lane blocked due to accident on I-190 Northbound at CR-75 Whitehaven Rd.,Grand Island,NY
+145,W-5396,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-05,A-715824,2,Accident on I-90 Westbound at Exit 49 NY-78 Transit Rd.,Buffalo,NY
+146,W-5404,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-06,A-715976,3,Center lane blocked due to accident on I-95 Southbound between Exit 17 Madison Ave and Exit 16 Cedar St.,New Rochelle,NY
+147,W-5406,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-08-08,A-720142,3,Accident on I-95 Northbound at Exit 17 MA-135 West St.,Dedham,MA
+148,W-5407,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-11,A-722535,2,Accident on I-90 Westbound at Exit 48A NY-77 Alleghany Rd.,Corfu,NY
+149,W-5410,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-12,A-723852,2,Accident on Expy Northbound at Southampton St. On exit ramp.,Boston,MA
+150,W-5411,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-17,A-729475,2,Right hand shoulder blocked due to accident on Sprain Brook Pkwy at Grasslands Rd.,Elmsford,NY
+151,W-5414,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-20,A-734621,2,Accident Dump Truck involved and fallen power cables on US-20 Southwestern Blvd near Railroad Ave.,Irving,NY
+152,W-5419,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-22,A-737659,3,Two lane blocked due to accident on I-90 Eastbound at Exit 52A CR-207 William St.,Buffalo,NY
+153,W-5420,Rain,Light,US/Central,KAXS,Altus,OK,2020-08-30,A-671434,2,Entry ramp closed due to incident on Port Miami Tunnel Westbound at FL-886.,Miami,FL
+154,W-5427,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-01,A-671098,2,Three lanes blocked due to accident on Garden State Pkwy Southbound at Exit 124 CR-670 Main St.,Sayreville,NJ
+155,W-5430,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-02,A-672675,3,Three lanes blocked due to accident on I-95 Southbound at Exit 16 Garden St.,New Rochelle,NY
+156,W-5441,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-03,A-674159,2,Right lane blocked and right hand shoulder blocked due to accident on US-131 Northbound at Pearl St.,Grand Rapids,MI
+157,W-5444,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-04,A-676192,4,Three lanes blocked due to accident on I-485 anticlockwise from Exit 3 Arrowood Rd to Exit 1 NC-49.,Charlotte,NC
+158,W-5448,Precipitation,UNK,US/Central,KAXS,Altus,OK,2020-09-08,A-593224,2,Left lane blocked due to accident on NY-33 Kensington Expy Eastbound at I-90 .,Buffalo,NY
+159,W-5462,Rain,Light,US/Central,KAXS,Altus,OK,2020-09-11,A-595240,2,Two lanes blocked due to accident on Garden State Pkwy Southbound at Great Egg Toll Plaza.,Somers Point,NJ
+160,W-5467,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-12,A-600005,3,Right lane blocked due to accident on I-190 Northbound at NY-5 Buffalo Skwy.,Buffalo,NY
+161,W-5470,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-13,A-600017,3,Three lanes blocked due to accident on I-75 Northbound at Exit 55 Chrysler Dr.,Detroit,MI
+162,W-5472,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-09-15,A-602688,2,Accident on I-90 Westbound after Exit 54 NY-400.,Buffalo,NY
+163,W-5473,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-16,A-602746,2,One lane blocked due to accident on NY-7 at NY-22.,Hoosick Falls,NY
+164,W-5475,Fog,Severe,US/Central,KAXS,Altus,OK,2020-09-24,A-615336,3,Right lane closed due to accident on I-290 Eastbound at I-90.,Buffalo,NY
+165,W-5481,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-09-28,A-619574,2,Right lane blocked due to accident on US-130 Southbound at New Albany Rd.,Cinnaminson,NJ
+166,W-5483,Fog,Severe,US/Central,KAXS,Altus,OK,2020-10-10,A-638148,3,Accident on I-190 Northbound at Exit 11 NY-198.,Buffalo,NY
+167,W-5486,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-12,A-638866,2,Left and center lane blocked due to accident on NY-9A Henry Hudson Pkwy Southbound at 158th St.,New York,NY
+168,W-5488,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-13,A-639666,2,Three lanes blocked due to accident on Grand Central Pkwy Eastbound at Ditmars Blvd.,East Elmhurst,NY
+169,W-5490,Cold,Severe,US/Central,KAXS,Altus,OK,2020-10-15,A-643141,3,Accident on I-96 Express Westbound at M-39. In the express lane.,Detroit,MI
+170,W-5491,Fog,Severe,US/Central,KAXS,Altus,OK,2020-10-18,A-648939,2,Accident on CR-83 Patchogue Mt Sinai Rd both ways around Hawkins Path.,Coram,NY
+171,W-5492,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-20,A-650013,3,Two lanes blocked due to accident on I-190 Southbound at Exit 5 Hamburg St.,Buffalo,NY
+172,W-5494,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-22,A-655735,2,Lane blocked due to accident on PA-46 Kendall Ave both ways at Pratt Holw.,Bradford,PA
+173,W-5495,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-23,A-657696,2,Left lane closed due to accident on NY-33 Kensington Expy Westbound at NY-240 Harlem Rd.,Buffalo,NY
+174,W-5504,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-25,A-659741,2,Lane blocked due to accident on Hutchinson River Pkwy Southbound at Exit 16 Webster Ave.,Bronxville,NY
+175,W-5528,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-27,A-662790,2,Accident on I-90 Westbound at Exits 51E 51W NY-33 Kensington Expy.,Buffalo,NY
+176,W-5548,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-28,A-662843,3,Right lane blocked and right hand shoulder blocked due to accident on I-94 Westbound near Edsel Ford Fwy.,Detroit,MI
+177,W-5570,Rain,Light,US/Central,KAXS,Altus,OK,2020-10-29,A-666636,2,Restrictions due to accident on I-190 Southbound after Exit 19 CR-75 Whitehaven Rd.,Grand Island,NY
+178,W-5574,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-10-30,A-591023,3,Lane closed due to accident on I-80 Westbound at Torrence Ave.,Lansing,IL
+179,W-5576,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-11-05,A-582033,4,Right lane blocked due to accident on I-20 Westbound from SC-6 Exit 55 to SC-204 Exit 51.,Lexington,SC
+180,W-5577,Fog,Severe,US/Central,KAXS,Altus,OK,2020-11-06,A-580568,3,Two lanes blocked due to accident on I-278 Bruckner Expy Eastbound at Exits 50 51 52 Morrison Ave.,Bronx,NY
+181,W-5583,Fog,Severe,US/Central,KAXS,Altus,OK,2020-11-11,A-572473,4,Right lane blocked due to earlier accident on I-295 Southbound between Exit 21 NJ-44 Crown Point Rd and Exit 20 Mid Atlantic Pkwy.,Thorofare,NJ
+182,W-5586,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-11-21,A-560089,2,Accident on 6th St Westbound at Martin Luther King Jr Way.,Oakland,CA
+183,W-5589,Rain,Light,US/Central,KAXS,Altus,OK,2020-11-22,A-558564,2,Entry ramp closed due to incident on Port Miami Tunnel Westbound at fl-886.,Miami,FL
+184,W-5601,Fog,Severe,US/Central,KAXS,Altus,OK,2020-11-27,A-552240,2,Accident on US-20 Lake St at Bartlett Rd.,Bartlett,IL
+185,W-5602,Rain,Light,US/Central,KAXS,Altus,OK,2020-11-28,A-551660,2,Entry ramp closed due to incident on Port Miami Tunnel Westbound at FL-886.,Miami,FL
+186,W-5605,Rain,Light,US/Central,KAXS,Altus,OK,2020-11-29,A-550516,2,Entry ramp closed due to incident on Port Miami Tunnel Westbound in Star Palm & Hibiscus Islands.,Miami,FL
+187,W-5612,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-02,A-545881,3,Lane blocked due to accident on I-90 Dan Ryan Expy Eastbound at Chinatown Feeder.,Chicago,IL
+188,W-5614,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-03,A-545019,2,Accident on MA-123 Brockton Ave at Belmont St.,Abington,MA
+189,W-5617,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-12-05,A-544517,2,Entry ramp to NJ-440 Northbound from Pulaski street closed due to fallen power cables.,Jersey City,NJ
+190,W-5619,Fog,Moderate,US/Central,KAXS,Altus,OK,2020-12-08,A-540863,2,Lane blocked due to accident on US-231 Northbound at Bledsoe Rd.,Hazel Green,AL
+191,W-5624,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-13,A-533911,3,Entry ramp closed due to incident on Port Miami Tunnel Eastbound at FL-A1A Macarthur Cswy.,Miami,FL
+192,W-5650,Snow,Light,US/Central,KAXS,Altus,OK,2020-12-16,A-529082,2,Left lane closed due to accident on MO-364 Westbound after Exit 8A MO-94.,Saint Charles,MO
+193,W-5659,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-30,A-512307,3,Two lanes blocked due to accident on I-278 Brooklyn Queens Expy Westbound at Kent Ave.,Brooklyn,NY
+194,W-5668,Rain,Light,US/Central,KAXS,Altus,OK,2020-12-31,A-512230,2,Accident on Day Rd near CR-7 Slayton Settlement Rd.,Lockport,NY
+195,W-8511,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-04,A-878957,3,Accident on I-90 Westbound from I-90 Exits 51 to I-90 Exits 52.,Buffalo,NY
+196,W-8512,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-07,A-880040,3,Right lane blocked due to accident on I-96 Eastbound at I-96 Exit 164 / I-275 .,Novi,MI
+197,W-8544,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-19,A-903770,2,Right hand shoulder blocked due to accident on I-90 Eastbound at Exits 3 4 NY-85.,Albany,NY
+198,W-8549,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-20,A-904524,2,Right lane blocked and right hand shoulder blocked due to accident on M-10 John C Lodge Fwy Northbound at M-39 Exit 16 / Northwestern Hwy.,Southfield,MI
+199,W-8558,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-21,A-905055,2,Accident on Atherton Rd at Fenton Rd.,Flint,MI
+200,W-8562,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-23,A-908955,3,Right lane blocked due to accident on I-690 Eastbound after I-81.,Syracuse,NY
+201,W-8563,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-24,A-911023,2,Accident on NY-78 Transit St at Ontario St.,Lockport,NY
+202,W-8570,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-26,A-915730,3,Lane blocked due to accident on I-87 Northbound at Exit 23 CR-35 Diamond Point Rd.,Lake George,NY
+203,W-8589,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-29,A-919102,2,One lane blocked due to accident on NY-79 Eastbound at Doolittle Rd.,Windsor,NY
+204,W-8592,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-01-30,A-921242,2,Accident on M-54 Dort Hwy at Saginaw Rd.,Clio,MI
+205,W-8594,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-01-31,A-923365,3,Right lane blocked due to accident on I-94 Eastbound at Exit 128 Michigan Ave.,Parma,MI
+206,W-8601,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-01,A-925346,2,Right hand shoulder blocked due to accident on Taconic State Pkwy Northbound after NY-203.,Chatham,NY
+207,W-8610,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-08,A-938552,2,Left hand shoulder blocked due to accident on I-94 Westbound at Exit 190 Belleville Rd.,Belleville,MI
+208,W-8611,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-09,A-941222,2,Lane blocked due to accident on NY-2 at Bulson Rd.,Troy,NY
+209,W-8617,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-13,A-947269,2,Right hand shoulder closed due to accident on I-94 Eastbound at Exit 198-199 Merriman Rd.,Romulus,MI
+210,W-8618,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-14,A-949455,3,Accident on I-90 Westbound at CR-77.,Corfu,NY
+211,W-8623,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-18,A-955803,2,Left and center lane blocked due to accident on M-10 John C Lodge Fwy Southbound at US-24 Telegraph Rd.,Southfield,MI
+212,W-8624,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-20,A-960088,3,Accident on I-87 Southbound before Exit 21B US-9W.,West Coxsackie,NY
+213,W-8625,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-22,A-964589,2,Right hand shoulder blocked due to accident on Taconic State Pkwy Southbound at NY-82.,Lagrangeville,NY
+214,W-8629,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-02-27,A-972300,2,Right and center lane blocked due to accident on Garden State Pkwy Express Lane Southbound at Exit 117 Garden State Pkwy Exit 117.,Hazlet,NJ
+215,W-8638,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-02-29,A-873562,3,Right lane blocked due to accident on I-190 Southbound at Exit 11 NY-198.,Buffalo,NY
+216,W-8639,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-03-03,A-817127,2,Accident on US-101 Central Fwy Southbound at I-80.,San Francisco,CA
+217,W-8641,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-05,A-817406,3,Right lane blocked due to accident on I-190 Northbound after Exit 6 Elm St.,Buffalo,NY
+218,W-8646,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-03-07,A-819656,2,Left lane blocked due to accident on M-8 Davison Fwy Westbound at I-75 Exits 56A 56B.,Highland Park,MI
+219,W-8652,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-11,A-826849,3,Left lane blocked due to accident on I-190 Eastbound at I-90.,Buffalo,NY
+220,W-8690,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-03-25,A-844527,3,Accident on I-495 Blue Star Memorial Hwy Northbound near MA-133 Andover St.,Tewksbury,MA
+221,W-8697,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-26,A-844604,2,Two lanes blocked due to accident on NY-25 Jericho Tpke Eastbound at I-495 Exits 40E 40 W.,Jericho,NY
+222,W-8712,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-03-29,A-3605758,2,At IN-243/Exit 37 - Accident. Right lane blocked.,Reelsville,IN
+223,W-8723,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-04-01,A-847582,4,One lane blocked due to accident on I-83 Northbound from Exit 24 Belfast Rd to Exit 27 MD-137.,Monkton,MD
+224,W-8733,Cold,Severe,US/Central,KAEL,Albert Lea,MN,2020-04-06,A-850202,2,Accident on I-90 Westbound from Exit 44 NY-332 to Exit 45 I-490 Exit 29.,Victor,NY
+225,W-8738,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-04-08,A-852876,2,Accident on PA-646 Summit Rd at Wolf Run Rd.,Bradford,PA
+226,W-8741,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-04-09,A-853881,2,Exit ramp from Kensington Expy Westbound to NY-198 Westbound lane blocked due to accident.,Buffalo,NY
+227,W-8765,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-04-28,A-871257,2,Accident on I-90 Eastbound from Exit 52A CR-207 William St to Exit 52 Walden Ave.,Buffalo,NY
+228,W-8768,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-05,A-764538,2,Accident on Pleasant St at Scotland Blvd.,Bridgewater,MA
+229,W-8772,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-07,A-765530,2,Right lane blocked due to accident on Cross Island Pkwy Northbound at I-295 Throgs Neck Brg.,Bayside,NY
+230,W-8773,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-09,A-767326,2,Right hand shoulder blocked and right lane blocked due to accident on M-39 Southbound at McNichols Rd.,Detroit,MI
+231,W-8774,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-10,A-768980,2,Left hand shoulder blocked due to accident on I-96 Eastbound at Exits 155 155A 155B Milford Rd.,Milford,MI
+232,W-8783,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-17,A-775555,3,Lane blocked due to accident on I-88 Westbound at Exit 24.,Duanesburg,NY
+233,W-8790,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-18,A-775926,3,2 right lane blocked due to accident on I-95 Bruckner Expy Northbound at I-695.,Bronx,NY
+234,W-8823,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-05-26,A-750292,2,Accident on I-90 Eastbound before Exit 57 NY-75 Camp Rd.,Hamburg,NY
+235,W-8847,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-10,A-804387,2,Accident on I-90 Eastbound at Exit 57 NY-75 Camp Rd.,Hamburg,NY
+236,W-8852,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-13,A-808622,3,Accident on I-90 Westbound at Exit 59 NY-60 Bennett Rd.,Dunkirk,NY
+237,W-8863,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-22,A-787362,3,2 left lane blocked due to accident on I-84 Eastbound between Exit 28 NY-208 and Exit 32 NY-747 International Blvd.,Rock Tavern,NY
+238,W-8877,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-06-27,A-794209,3,Two lanes blocked due to accident on I-95 Southbound at Exit 8 NJ-133.,Hightstown,NJ
+239,W-8880,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-06-29,A-796556,2,Accident on I-190 Northbound around Hamburg St.,Buffalo,NY
+240,W-8889,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-07-09,A-684768,2,Left lane blocked due to accident on I-95 Northbound from Exit 19 CR-152 Playland Pkwy to Exits 20 21 I-287 Cross Westchester Expy Exits 11 12.,Rye,NY
+241,W-8892,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-07-11,A-686053,2,Accident on I-190 Southbound at Exit 19 / CR-75 Whitehaven Rd.,Grand Island,NY
+242,W-8903,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-07-18,A-694899,2,Accident on Turtle Pond Pkwy at Dedham Pkwy.,Hyde Park,MA
+243,W-8919,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-08-09,A-720185,3,Two lanes blocked due to accident on I-495 Eastbound at exit 21.,Flushing,NY
+244,W-8924,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-08-10,A-721163,3,Left lane blocked due to accident on I-90 Eastbound at Exit 49 NY-78 Transit Rd.,Buffalo,NY
+245,W-8926,Rain,Moderate,US/Central,KAEL,Albert Lea,MN,2020-08-15,A-728702,3,Accident on I-190 Northbound at Exit 13 Austin St.,Buffalo,NY
+246,W-8929,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-08-19,A-733011,2,Accident on CR-20 Townline Rd at CR-60 Tonawanda Creek Rd.,North Tonawanda,NY
+247,W-8930,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-08-21,A-736066,3,Accident on I-90 Eastbound at Exits 51E 51W NY-33 Kensington Expy.,Buffalo,NY
+248,W-8936,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-08-23,A-737747,2,Accident on Northern Pkwy Eastbound at Exits 27 27N 27S Shelter Rock Rd.,Roslyn,NY
+249,W-8938,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-08-24,A-738637,2,Accident on I-190 Southbound at Exit 7 Broadcast Plz.,Buffalo,NY
+250,W-8939,Precipitation,UNK,US/Central,KAEL,Albert Lea,MN,2020-08-28,A-743064,3,Right lane blocked due to accident on I-95 Cross Bronx Expy Southbound at 3rd Ave.,Bronx,NY
+251,W-8949,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-09-06,A-591599,3,Lane blocked due to accident on I-90 Eastbound at Exit 58 NY-5.,Irving,NY
+252,W-8984,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-09-18,A-607550,2,Accident on I-190 Southbound at Exit 15 NY-325 Sheridan Dr.,Tonawanda,NY
+253,W-8990,Fog,Moderate,US/Central,KAEL,Albert Lea,MN,2020-09-25,A-615504,2,Left lane blocked due to accident on Garden State Pkwy Northbound at Exit 138 CR-509 Boulevard.,Kenilworth,NJ
+254,W-8992,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-09-26,A-618932,3,Accident on I-90 Eastbound between Exit 56 NY-179 Mile Strip Rd and Exit 55 US-219.,Buffalo,NY
+255,W-8999,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-09-29,A-621700,2,Lane blocked due to accident on NY-240 Harlem Rd Northbound between NY-5 Main St and NY-324 Sheridan Dr.,Buffalo,NY
+256,W-9000,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-09-30,A-576387,2,Entry ramp to A.C. Expressway Westbound from Albany Blvd Northbound closed due to emergency repairs.,Atlantic City,NJ
+257,W-9003,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-01,A-623612,3,Left lane blocked due to accident on I-87 Northbound at Exit 10 230th St.,Bronx,NY
+258,W-9011,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-03,A-626855,3,Lane blocked due to accident on I-87 Northbound near US-9.,Ballston Spa,NY
+259,W-9012,Fog,Moderate,US/Central,KAEL,Albert Lea,MN,2020-10-11,A-638167,3,Left lane blocked due to accident on I-87 Northbound at Exit 15 NY-50.,Saratoga Springs,NY
+260,W-9024,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-16,A-646695,2,Accident on I-90 Westbound at Exit 50 I-290 Exits 1-49 7A 7B 51-61.,Buffalo,NY
+261,W-9025,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-17,A-646976,2,Two lanes blocked due to accident on Garden State Pkwy Southbound at CR-530 Dover Rd.,Toms River,NJ
+262,W-9027,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-10-19,A-650006,2,Accident on I-90 Eastbound at Exit 48A NY-77 Alleghany Rd.,Corfu,NY
+263,W-9034,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-10-21,A-651894,3,Right lane blocked due to accident on I-96 Westbound at Davison.,Detroit,MI
+264,W-9063,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-11-12,A-571436,3,Lane closed due to accident on I-290 Eastbound at Keeler Ave.,Chicago,IL
+265,W-9067,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-11-15,A-567774,3,Accident and fallen power cables on NJ-56 Landis Ave Eastbound between CR-634 Morton Ave and CR-717 Kenyon Ave.,Bridgeton,NJ
+266,W-9080,Rain,Light,US/Central,KAEL,Albert Lea,MN,2020-12-06,A-542971,3,Right lane blocked due to accident on I-278 Bruckner Expy Eastbound before NY-895.,Bronx,NY
+267,W-9081,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-12-07,A-541383,3,Two lanes blocked due to accident on I-495 Eastbound at Exits 15 16 17W 17W-E 18 I-278 Brooklyn Queens Expy Exits 35 35A-B.,Woodside,NY
+268,W-9095,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-14,A-533203,2,Two lanes blocked due to accident on CA-60 Westbound at Jack Rabbit Trl.,Moreno Valley,CA
+269,W-9096,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-17,A-526474,3,Right lane blocked due to accident on Garden State Pkwy Northbound at Exit 144 Myrtle Ave.,Irvington,NJ
+270,W-9099,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-19,A-525429,3,Entry ramp closed due to incident on Port Miami Tunnel Westbound at Fl-886.,Miami,FL
+271,W-9101,Snow,Light,US/Central,KAEL,Albert Lea,MN,2020-12-20,A-524250,3,Entry ramp closed due to incident on Port Miami Tunnel Westbound in Star Palm & Hibiscus Islands.,Miami,FL
+272,W-9102,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-12-22,A-521393,3,Lane blocked due to accident on I-90 Kennedy Expy Eastbound at Logan Blvd.,Chicago,IL
+273,W-9106,Fog,Severe,US/Central,KAEL,Albert Lea,MN,2020-12-24,A-518873,4,Accident on I-77 Southbound from Exit 8 VA-148 Chances Creek Rd to Exit 1 VA-620 Lambsburg Rd.,Lambsburg,VA
+274,W-11811,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-01-11,A-888500,3,Left lane blocked due to accident on I-94 Westbound around Exit 198-199 Merriman Rd.,Romulus,MI
+275,W-11868,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-02-06,A-933449,3,Right lane blocked due to accident on I-280 Eastbound at Exit 15 NJ-21 Mccarter Hwy.,Newark,NJ
+276,W-11918,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-02-19,A-958679,4,Right hand shoulder blocked due to accident on I-75 Northbound from GA-166 Langford Pkwy to Exit 244 University Ave.,Atlanta,GA
+277,W-11942,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-03-02,A-874683,2,Accident on I-90 Westbound at Exit 59 NY-60 Bennett Rd.,Dunkirk,NY
+278,W-11950,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-03-10,A-823017,3,Accident on NJ-33 Westbound from Millstone Rd to CR-619 Butcher Rd.,Monroe Township,NJ
+279,W-11985,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-04-04,A-848640,3,Right lane blocked due to accident on I-94 Westbound at I-75.,Detroit,MI
+280,W-12006,Rain,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-04-18,A-861761,2,Right lane blocked due to accident on I-95 Southbound at Exit 16 Cedar St.,New Rochelle,NY
+281,W-12028,Precipitation,UNK,US/Central,KBTR,Baton Rouge,LA,2020-04-29,A-762554,2,Accident on 7th Ave at Dobbins Rd.,Phoenix,AZ
+282,W-12086,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-06-07,A-801200,2,Accident on Hutchinson River Pkwy Southbound at Exit 4N Baychester Ave.,Bronx,NY
+283,W-12094,Rain,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-06-08,A-801248,3,Two lane blocked due to accident on I-278 Westbound at Exit 16 Belt Pkwy Exit 3.,Brooklyn,NY
+284,W-12110,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-06-15,A-809483,2,Accident on I-90 Eastbound at Exit 48A NY-77 Alleghany Rd.,Corfu,NY
+285,W-12124,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-06-24,A-789352,2,Accident on Frances Rd at Gale Rd.,Otisville,MI
+286,W-12149,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-07-01,A-747124,2,Right lane closed due to accident on NY-5 Buffalo Skwy Eastbound at Ohio St.,Buffalo,NY
+287,W-12150,Fog,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-07-03,A-679665,2,Accident on Zimmerman Rd at Perennial Way.,Erie,PA
+288,W-12172,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-07,A-683196,2,Accident on CR-89 Nash Rd at Walck Rd.,North Tonawanda,NY
+289,W-12183,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-19,A-694978,3,Right and center lane blocked due to accident on Heckscher Pkwy Eastbound from Exit 41A Southern Pkwy to Exits 42N 42S CR-13 5th Ave.,Bay Shore,NY
+290,W-12184,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-20,A-695482,2,Right and center lane blocked due to accident on Grand Central Pkwy Eastbound at Exits 13S 13W 14 15 I-678 Exits 7 8 10.,Flushing,NY
+291,W-12187,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-07-24,A-701640,3,Left lane blocked due to accident on I-190 Southbound at Exit 6 Oak St.,Buffalo,NY
+292,W-12225,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-13,A-724574,4,Two lanes blocked due to accident on I-26 Eastbound from Exits 111A 111B US-1 Augusta Rd to Airport Ln.,West Columbia,SC
+293,W-12232,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-25,A-740016,2,Accident on I-190 Southbound from Exit 7 Broadcast Plz to Exit 6 Oak St.,Buffalo,NY
+294,W-12237,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-26,A-740057,3,HOV lane blocked and right hand shoulder blocked due to accident on I-96 Westbound after Davison.,Detroit,MI
+295,W-12242,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-27,A-741470,3,Right lane blocked and right hand shoulder blocked due to accident on I-75 Southbound between Fisher Fwy and Schaefer Hwy.,Detroit,MI
+296,W-12256,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-08-29,A-746052,3,Lane blocked due to accident on I-190 Southbound at Exit 11 NY-198.,Buffalo,NY
+297,W-12260,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-09-05,A-591747,2,Entry ramp closed due to incident on Port Miami Tunnel Westbound at FL-886.,Miami,FL
+298,W-12266,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-09-19,A-609348,3,Accident on I-190 Southbound at Exit 9 Porter Ave.,Buffalo,NY
+299,W-12274,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-09-21,A-610470,3,Left lane blocked due to accident on I-90 Eastbound at Exit 57A CR-32 Eden Evans Center Rd.,Eden,NY
+300,W-12282,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-09-23,A-613709,2,Accident on NY-198 Eastbound at Parkside Ave.,Buffalo,NY
+301,W-12305,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-10-08,A-633030,3,Two lanes blocked due to accident on I-95 Northbound at Exit 16W Service Rd.,East Rutherford,NJ
+302,W-12308,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-10-09,A-634668,2,Left lane blocked due to accident on M-10 John C Lodge Fwy Northbound after Hamilton Ave.,Detroit,MI
+303,W-12350,Precipitation,UNK,US/Central,KBTR,Baton Rouge,LA,2020-10-24,A-657701,3,Lane blocked due to accident on I-90 Eastbound at I-190 .,Buffalo,NY
+304,W-12362,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-11-07,A-580337,2,Accident on Brittan Ave at Old County Rd.,San Carlos,CA
+305,W-12376,Fog,Moderate,US/Central,KBTR,Baton Rouge,LA,2020-11-13,A-551545,2,Entry ramp to A.C. Expressway Westbound from Albany Blvd Northbound closed due to emergency repairs.,Atlantic City,NJ
+306,W-12380,Cold,Severe,US/Central,KBTR,Baton Rouge,LA,2020-11-17,A-551546,2,Entry ramp to A.C. Expressway Westbound from Albany Blvd Westbound closed due to emergency repairs. Detour in operation - US-322 - US-9.,Atlantic City,NJ
+307,W-12382,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-11-25,A-553392,3,Two lanes blocked due to accident on I-696 Westbound at Greenfield Rd.,Southfield,MI
+308,W-12388,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-11-26,A-552920,3,Lane blocked due to accident on I-55 Northbound at Exit 6 IL-111.,East Saint Louis,IL
+309,W-12421,Rain,Light,US/Central,KBTR,Baton Rouge,LA,2020-12-04,A-2954032,2,I5 S BIRMINGHAM NO. 504C; MAKE 1185 - 3A NEG ON ROT - FOR BLU FORD RANGER [Shared],Cardiff By the Sea,CA
+310,W-12461,Fog,Severe,US/Central,KBTR,Baton Rouge,LA,2020-12-21,A-523443,3,HOV lane blocked due to accident on I-5 Southbound before Exit 152 188th St.,Seattle,WA
+311,W-15448,Rain,Light,US/Central,KCMY,Sparta,WI,2020-01-09,A-886356,3,Lef lane blocked due to accident on I-190 Southbound after Exit 18A Stony Point Ext.,Grand Island,NY
+312,W-15490,Snow,Light,US/Central,KCMY,Sparta,WI,2020-01-25,A-911031,3,Right lane blocked due to accident on I-90 Eastbound after Exit 50A CR-141 Cleveland Dr.,Buffalo,NY
+313,W-15528,Snow,Light,US/Central,KCMY,Sparta,WI,2020-03-06,A-819588,2,Entry ramp closed due to accident on NY-33 Eastbound from Tupper St to entry ramp to NY-33.,Buffalo,NY
+314,W-15646,Rain,Light,US/Central,KCMY,Sparta,WI,2020-05-01,A-762790,2,Accident on I-190 Northbound at Exit 8 NY-266 Niagara St.,Buffalo,NY
+315,W-15821,Fog,Severe,US/Central,KCMY,Sparta,WI,2020-08-04,A-714338,3,Left lane blocked due to accident on I-90 Eastbound at Exit 58 NY-5.,Irving,NY
+316,W-15831,Rain,Light,US/Central,KCMY,Sparta,WI,2020-08-16,A-728767,2,Three lanes blocked due to accident on Southern Pkwy at Exits 17N 17S Hempstead Ave.,Malverne,NY
+317,W-15833,Fog,Severe,US/Central,KCMY,Sparta,WI,2020-08-18,A-731509,2,Accident on I-90 Eastbound at Exit 50 I-290 Exits 1-49 7A 7B 51-61.,Buffalo,NY
+318,W-15888,Fog,Severe,US/Central,KCMY,Sparta,WI,2020-09-14,A-601150,3,Left lane blocked due to accident on Expy Northbound near MA-3.,Quincy,MA
+319,W-15912,Rain,Light,US/Central,KCMY,Sparta,WI,2020-10-07,A-631388,2,Right lane blocked due to accident on I-87 Northbound after Exit 2 Central Park Ave.,Yonkers,NY
+320,W-15957,Rain,Light,US/Central,KCMY,Sparta,WI,2020-11-01,A-588685,3,Two lanes blocked due to accident on I-278 Brooklyn Queens Expy Westbound at Exit 24 NY-27 Prospect Expy Exit 1.,Brooklyn,NY
+321,W-16009,Snow,Light,US/Central,KCMY,Sparta,WI,2020-11-30,A-518799,2,Entry ramp to A.C. Expressway Westbound from Albany Blvdc Westbound closed due to emergency repairs.,Atlantic City,NJ
+322,W-19259,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-01-05,A-878976,3,Exit ramp from I-94 Eastbound at Exit 220B to Conner St lane blocked due to accident.,Detroit,MI
+323,W-19263,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-01-06,A-879959,2,Accident on US-219 Northbound at CR-49 Genesee Rd.,Springville,NY
+324,W-19267,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-01-08,A-882160,2,Accident on Linden Rd at Wilson Rd.,Clio,MI
+325,W-19432,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-03-01,A-874149,3,Right lane blocked due to accident on I-190 Southbound near Exit 6 Elm St.,Buffalo,NY
+326,W-19581,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-02,A-847581,2,Accident on I-90 Westbound at Exit 57 NY-75 Camp Rd.,Hamburg,NY
+327,W-19599,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-11,A-855154,2,Accident on I-87 Northbound at Exits 2E 2W NY-5 Central Ave.,Albany,NY
+328,W-19605,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-15,A-858392,3,Right and center lane blocked and right hand shoulder blocked due to accident on I-94 Eastbound at Edsel Ford Fwy.,Detroit,MI
+329,W-19615,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-16,A-860565,2,Right lane blocked due to accident on NY-33 Kensington Expy Westbound at NY-240 Harlem Rd.,Buffalo,NY
+330,W-19633,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-04-30,A-761411,3,Accident on I-90 Westbound from Exit 54 NY-400 to Exit 55 US-219.,Buffalo,NY
+331,W-19636,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-05-03,A-764532,2,Accident on I-90 Westbound at Exit 49.,Akron,NY
+332,W-19637,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-05-04,A-3294664,2,Incident on SC-183 near SC-253 Expect delays.,Greenville,SC
+333,W-19703,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-06-17,A-785608,3,Entry ramp to US-64-BYP Eastbound from US-64-BR Westbound closed due to flooding.,Rocky Mount,NC
+334,W-19709,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-06-18,A-785444,2,Entry ramp to A St Southbound from PA-924 Northbound closed due to flooding.,Gilberton,PA
+335,W-19725,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-06-30,A-748191,3,Left and center lane blocked due to accident on I-225 Northbound from Exit 7 Mississippi Ave to Exit 8 Alameda Ave.,Aurora,CO
+336,W-19769,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-09-07,A-591660,3,Left lane blocked due to accident on I-495 Westbound at Exit 28 Horace Harding Expy.,Oakland Gardens,NY
+337,W-19826,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-11-16,A-566351,4,Right lane closed due to accident on I-40 Westbound from Exit 20 US-276 Jonathan Creek Rd to Exit 15 Fines Creek Rd.,Waynesville,NC
+338,W-19832,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-11-18,A-563357,3,Lane blocked due to accident on I-64 Eastbound at Exit 117 CR-20 2550.,Burnt Prairie,IL
+339,W-19834,Rain,Light,US/Mountain,KDIJ,Driggs,ID,2020-11-19,A-561751,3,Lane blocked due to accident on I-55 Stevenson Expy Southbound at Exit 287 Pulaski Rd.,Chicago,IL
+340,W-19843,Fog,Severe,US/Mountain,KDIJ,Driggs,ID,2020-11-20,A-560455,3,Lane blocked due to accident on I-72 Eastbound at IL-104.,Jacksonville,IL
+341,W-19922,Snow,Light,US/Mountain,KDIJ,Driggs,ID,2020-12-26,A-518211,3,Three lanes blocked due to accident on I-5 Northbound at Exits 134 135 136 136A 136B 28th St.,Tacoma,WA
+342,W-23374,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-02-02,A-927554,3,Left lane blocked and left hand shoulder blocked due to accident on I-95 Southbound from Exit 15W I-280 to Exit 15X Seaview Dr.,Secaucus,NJ
+343,W-23598,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-05-19,A-777772,3,Left and center lane blocked due to accident on I-90 Eastbound at Exits 51E 51W NY-33 Kensington Expy.,Buffalo,NY
+344,W-23628,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-06-11,A-805731,2,Accident on I-90 Eastbound at Exit 58 NY-5.,Irving,NY
+345,W-23630,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-06-12,A-807135,2,Accident on I-90 Eastbound at Exit 49 NY-78 Transit Rd.,Buffalo,NY
+346,W-23659,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-07-08,A-683330,3,Two lane blocked due to accident on I-278 Brooklyn Queens Expy Eastbound at Exit 24 NY-27 Prospect Expy Exit 1.,Brooklyn,NY
+347,W-23689,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-07-22,A-697403,3,Left and center lane blocked due to accident on I-84 Westbound at Exit 50 CR-27 Lime Kiln Rd.,Hopewell Junction,NY
+348,W-23696,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-07-31,A-708786,3,Right lane blocked and right hand shoulder blocked due to accident on I-94 Eastbound at Vining Rd.,Romulus,MI
+349,W-23697,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-08-01,A-710386,2,Lane blocked due to accident on Bronx River Pkwy Southbound at Cross County Pkwy.,Mount Vernon,NY
+350,W-23708,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-08-07,A-717286,3,Center and Right lane blocked and right hand shoulder blocked due to accident on I-275 Southbound at M-14.,Plymouth,MI
+351,W-23773,Rain,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-10-04,A-629155,3,Exit ramp from I-90 Westbound at Exit 54 to NY-400 Southbound lane blocked due to accident.,Buffalo,NY
+352,W-23775,Fog,Severe,US/Eastern,KGRR,Grand Rapids,MI,2020-10-05,A-629618,2,Left hand shoulder blocked due to accident on I-495 Blue Star Memorial Hwy Southbound near MA-9 Turnpike Rd.,Westborough,MA
+353,W-23869,Fog,Moderate,US/Eastern,KGRR,Grand Rapids,MI,2020-12-09,A-538903,4,Two lanes blocked due to accident on I-94 Eastbound from Old Us-41 to Exit 1 I-41 Exit 1A.,Wadsworth,IL
+354,W-23909,Snow,Light,US/Eastern,KGRR,Grand Rapids,MI,2020-12-25,A-518583,3,Entry ramp to I-24 Eastbound from I-65 Northbound closed due to police incident.,Nashville,TN
+355,W-25999,Storm,Severe,US/Central,KHUT,Hutchinson,KS,2020-07-30,A-708742,2,Accident on 13th St at Ontario Ave.,Niagara Falls,NY
+356,W-28721,Rain,Light,US/Mountain,KEMM,Kemmerer,WY,2020-05-30,A-755792,2,Accident on I-87 Northbound at Exit 19.,Kingston,NY
+357,W-28803,Cold,Severe,US/Mountain,KEMM,Kemmerer,WY,2020-08-14,A-725484,3,Right lane blocked and right hand shoulder blocked due to accident on I-94 Eastbound at Edsel Ford Fwy.,Detroit,MI
+358,W-28840,Cold,Severe,US/Mountain,KEMM,Kemmerer,WY,2020-10-02,A-625181,3,Right lane blocked due to accident on I-94 Eastbound at Mt Elliott.,Detroit,MI
+359,W-28845,Cold,Severe,US/Mountain,KEMM,Kemmerer,WY,2020-10-06,A-631223,2,Accident on I-90 Westbound after Exit 48A NY-77 Alleghany Rd.,Corfu,NY
+360,W-33491,Fog,Severe,US/Eastern,KPSF,Pittsfield,MA,2020-09-17,A-605746,2,Accident on I-190 Southbound after Exit 5 Hamburg St.,Buffalo,NY
+361,W-33616,Fog,Severe,US/Eastern,KPSF,Pittsfield,MA,2020-10-31,A-590648,3,Left lane blocked due to accident on I-5 Southbound at I-5 Exit 105.,Olympia,WA
+362,W-33619,Rain,Light,US/Eastern,KPSF,Pittsfield,MA,2020-11-02,A-586965,3,Entry ramp to I-77 Southbound from St Michaels Ave Northbound closed due to fallen power cables.,Akron,OH
+363,W-33623,Snow,Light,US/Eastern,KPSF,Pittsfield,MA,2020-11-03,A-585135,4,Main roadway closed due to accident on I-94 Eastbound from Exit 85 35th St to Exit 88 40th St. Traffic getting by on the shoulder.,Climax,MI
+364,W-41187,Rain,Moderate,US/Eastern,KNBT,Davis,NC,2020-02-21,A-964335,2,Right lane blocked due to accident on I-90 Westbound at Exit 53 I-190 .,Buffalo,NY
+365,W-73577,Fog,Severe,US/Pacific,KSPB,Scappoose,OR,2020-11-04,A-583642,4,Three lanes blocked due to accident on I-40 Westbound from Exit 150 Jimmie Kerr Rd to Exit 148 NC-54 Harden St.,Graham,NC
