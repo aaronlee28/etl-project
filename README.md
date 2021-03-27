@@ -4,4 +4,4 @@ ETL stands for extract, transform, and load. The first part of the project is to
 
 The second part of the project is the cleanup and analysis, where we use Jupyter Notebook to clean, filter, transform and join the two datasets. 
 
-And The last part is to load the final dataset into a database in PostgreSQL. The reason why we decided to load our dataset into PostgreSQL is because our final product is in a form of a table, which resulted  from a join, so PostgreSQL would make sense since we can draw an entire schema of our datasets.  
+And The last part is to load the final dataset into a database in PostgreSQL. The reason why we decided to load our dataset into PostgreSQL is because our final product is in a form of a table, which resulted from a join, so PostgreSQL would make sense since we can draw an entire schema of our datasets.  
